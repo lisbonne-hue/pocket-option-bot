@@ -1,1 +1,2 @@
-# pocket_option_bot.py
+Pocket Option Bot 5M Signals
+Déployable sur Render.com
