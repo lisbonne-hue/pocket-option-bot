@@ -1,1 +1,1 @@
-# pocket_option_bot.py  → bot.py
+# pocket_option_bot.py
